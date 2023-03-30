@@ -10,6 +10,7 @@ https://www.flutter-study.dev/todo-app/about-todo-app
 チェックボックス
 削除機能  
 クリア機能  
+アラートダイアログの表示  
 Todo毎に背景色をランダムな色で表示  
 
 

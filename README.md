@@ -5,6 +5,10 @@ flutter に触ってみたかったので下記のTodo アプリ作成手順を�
 参照先：
 https://www.flutter-study.dev/todo-app/about-todo-app
 
+使用パッケージ：
+flutter_slidable
+google fonts
+
 ## 自分で付け加えたもの  
 日本語フォントに変更  
 チェックボックス
